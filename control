@@ -1,0 +1,9 @@
+Package: com.Mohammad.com
+Name: Kenda
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mohammad Ghzayel
+Author: Mohammad Ghzayel
+Section: Tweaks
