@@ -225,5 +225,3 @@ return %orig;
 }
 }
 %end
-
-*// ^_^
